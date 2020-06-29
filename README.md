@@ -47,13 +47,13 @@ We used the KITTI dataset in our experiments. Please refer to a very well writte
 
 The pretrained model can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1YxCfxMN2AKVEAkJqnjkD6X1Zn3JDKm-a?usp=sharing).
 Note: The accuracy of the last one is slightly worse than in the paper, I am working on that.
-The model in PFN-depth_half_fusefeat_discr has this accuracy:
+The model in PFN-depth_half_fusefeat_discr has this accuracy: <br />
    abs_rel,     sq_rel,        rms,    log_rms,     d1_all,         a1,         a2,         a3 <br />
     0.1477,     1.2205,      5.758,      0.236,      0.000,      0.795,      0.926,      0.969 <br />
-The model in PFN-depth_cycle_fusefeat_discr has this accuracy:
+The model in PFN-depth_cycle_fusefeat_discr has this accuracy: <br />
    abs_rel,     sq_rel,        rms,    log_rms,     d1_all,         a1,         a2,         a3 <br />
     0.1413,     1.3320,      5.642,      0.237,      0.000,      0.807,      0.927,      0.969 <br />
-The model in PDF-depth_cycle_fusefeat_ssim_discr has this accuracy:
+The model in PDF-depth_cycle_fusefeat_ssim_discr has this accuracy: <br />
    abs_rel,     sq_rel,        rms,    log_rms,     d1_all,         a1,         a2,         a3 <br />
     0.1091,     0.8445,      4.761,      0.204,      0.000,      0.877,      0.950,      0.975 <br />
 
