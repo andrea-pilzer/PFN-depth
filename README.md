@@ -60,11 +60,12 @@ The model in PDF-depth_cycle_fusefeat_ssim_discr has this accuracy: <br />
 ## 4. Citation
 Please condiser citing our paper if you find the code is useful for your projects:
 <pre>
-@inproceedings{pilzer2018unsupervised,
+@article{pilzer2019progressive,
   title={Progressive Fusion for Unsupervised Binocular Depth Estimation using Cycled Networks},
-  author={Pilzer, Andrea and Lathuilière, Stéphane and Xu, Dan and Puscas, Mihai and Ricci, Elisa and Sebe, Nicu},
+  author={Pilzer, Andrea and Lathuili{\`e}re, St{\'e}phane and Xu, Dan and Puscas, Mihai Marian and Ricci, Elisa and Sebe, Nicu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2019},
-  organization={IEEE Transactions on Pattern Analysis and Machine Intelligence}
+  publisher={IEEE}
 }
 </pre>
 
